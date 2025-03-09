@@ -4,3 +4,4 @@ pydantic
 SQLAlchemy
 pymysql
 fastapi-pagination
+mysql-connector-python 
